@@ -41,7 +41,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'djoser',
     'fortress',
-
+    'core',
+    'images',
 ]
 
 MIDDLEWARE = [
@@ -84,7 +85,7 @@ DATABASES = {
         'NAME': 'data_fortress',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': '*************'
+        'PASSWORD': '***************'
     }
 }
 # Password validation
