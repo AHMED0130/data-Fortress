@@ -10,6 +10,7 @@ djoser = "*"
 mysqlclient = "*"
 pillow = "*"
 djangorestframework-simplejwt = "*"
+cryptography = "*"
 
 [dev-packages]
 
