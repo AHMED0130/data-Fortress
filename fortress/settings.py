@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'fortress',
     'core',
     'images',
+    'videos',
 ]
 
 MIDDLEWARE = [
@@ -85,7 +86,7 @@ DATABASES = {
         'NAME': 'data_fortress',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': '***************'
+        'PASSWORD': '*******************'
     }
 }
 # Password validation
